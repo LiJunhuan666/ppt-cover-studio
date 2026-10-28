@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT高级风格封面"
+  short_description: "依据真实内容与参考模板，分层制作中文艺术字和高级封面，并检查最终排版"
+  default_prompt: "使用 $ppt-cover-studio 根据我的PPT和参考图制作高级中文封面，先确认生图API配置与交付形式。"

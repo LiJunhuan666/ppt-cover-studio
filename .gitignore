@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+image-config.json
+generated/
+private/
+.venv/
